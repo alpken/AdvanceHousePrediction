@@ -1,6 +1,6 @@
-# AdvanceHousePrediction
+# Advance House Prediction
 
-# House Price Prediction
+---
 
 An end-to-end regression project on the KC House Sales dataset, covering exploratory data analysis,
 geospatial visualization, Gradient Boosting modeling, and dimensionality reduction via PCA.
@@ -20,19 +20,6 @@ across King County, Washington — enabling data-driven valuation for real estat
 **Size:** 21,613 records | 21 features
 **Target variable:** `price` (sale price in USD)
 **Key features:** `sqft_living`, `bedrooms`, `bathrooms`, `grade`, `waterfront`, `lat`, `long`, `yr_built`
-
----
-
-## Project Structure
-
-```
-kc-house-price-prediction/
-├── data/
-│   └── kc_house_data.csv
-├── notebooks/
-│   └── house_price_analysis.ipynb
-└── README.md
-```
 
 ---
 
